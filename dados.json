@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+        "cpf": 45521839070,
+        "nome": "Ozzy",
+        "sobrenome": "Osbourne",
+        "cidade": "Marston Green",
+        "pais": "Reino Unido",
+        "link": "https://pt.wikipedia.org/wiki/Ozzy_Osbourne",
+        "imagem": "<img src='img/ozzy.jpg' width='200px'>"
+    },
+    {
+        "id": 2,
+        "cpf": 88847751080,
+        "nome": "Ronnie",
+        "sobrenome": "James Dio",
+        "cidade": "Portsmouth, Nova Hamsphire",
+        "pais": "Estados Unidos",
+        "link": "https://pt.wikipedia.org/wiki/Ronnie_James_Dio",
+        "imagem": "<img src='img/dio.jpg' width='200px'>"
+    },
+    {
+        "id": 3,
+        "cpf": 17855051066,
+        "nome": "Steven",
+        "sobrenome": "Tyler",
+        "cidade": "Nova York",
+        "pais": "Estados Unidos",
+        "link": "https://pt.wikipedia.org/wiki/Steven_Tyler",
+        "imagem": "<img src='img/stevenTyler.jpg' width='200px'>"  
+    },
+    {
+        "id": 4,
+        "cpf": 94588396021,
+        "nome": "Chester",
+        "sobrenome": "Bennington",
+        "cidade": "Phoenix, Arizona",
+        "pais": "Estados Unidos",
+        "link": "https://pt.wikipedia.org/wiki/Chester_Bennington",
+        "imagem": "<img src='img/chester.jpg' width='200px'>"  
+    },
+    {
+        "id": 5,
+        "cpf": 31740117018,
+        "nome": "Layne",
+        "sobrenome": "Staley",
+        "cidade": "Kirkland, Washington",
+        "pais": "Estados Unidos",
+        "link": "https://pt.wikipedia.org/wiki/Layne_Staley",
+        "imagem": "<img src='img/layneStanley.jpg' width='200px'>"  
+    },
+    {
+        "id": 6,
+        "cpf": 19702239010,
+        "nome": "James",
+        "sobrenome": "Hetfield",
+        "cidade": "Downey, Califórnia",
+        "pais": "Etados Unidos",
+        "link": "https://pt.wikipedia.org/wiki/James_Hetfield",
+        "imagem": "<img src='img/james.jpg' width='200px'>"  
+    },
+    {
+        "id": 7,
+        "cpf": 97521697081,
+        "nome": "Bruce",
+        "sobrenome": "Dickinson",
+        "cidade": "Worksop",
+        "pais": "Reino Unido",
+        "link": "https://pt.wikipedia.org/wiki/Bruce_Dickinson",
+        "imagem": "<img src='img/bruceDickinson.jpg' width='200px'>"
+    },
+    {
+        "id": 8,
+        "cpf": 31281249068,
+        "nome": "Lemmy",
+        "sobrenome": "Kilmister",
+        "cidade": "Burslem, Stoke-on-Trent",
+        "pais": "Reino Unido",
+        "link": "hhttps://pt.wikipedia.org/wiki/Lemmy",
+        "imagem": "<img src='img/lemmyKilmister.jpg' width='200px'>"
+    },
+    {
+        "id": 9,
+        "cpf": 10065047028,
+        "nome": "Billie",
+        "sobrenome": "Joe Armstrong",
+        "cidade": "Oakland, Califórnia",
+        "pais": "Estados Unidos",
+        "link": "https://pt.wikipedia.org/wiki/Billie_Joe_Armstrong",
+        "imagem": "<img src='img/billieJoe.jpg' width='200px'>"  
+    },
+    {
+        "id": 10,
+        "cpf": 25657060067,
+        "nome": "Oliver",
+        "sobrenome": "Sykes",
+        "cidade": "Ashford",
+        "pais": "Reino Unido",
+        "link": "https://pt.wikipedia.org/wiki/Oliver_Sykes",
+        "imagem": "<img src='img/oliverSykes.jpg' width='200px'>"  
+    }
+
+]
